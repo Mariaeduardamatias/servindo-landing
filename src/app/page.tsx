@@ -59,16 +59,17 @@ export default function Home() {
         </section>
 
         {/* Exercícios de Respiração */}
-        <section id="respiracao" className="py-10 px-6 max-w-4xl mx-auto bg-blue-50">
-          <h2 className="text-2xl font-semibold mb-4">🧘‍♀️ Exercícios de Respiração</h2>
-          <ul className="list-disc ml-6">
-            {respiracoes.map((item, idx) => (
-              <li key={idx} className="mb-2">
-                <strong>{item.titulo}</strong>: {item.descricao}
-              </li>
-            ))}
-          </ul>
-        </section>
+      <section id="respiracao" className="py-10 px-6 max-w-4xl mx-auto bg-blue-50">
+        <h2 className="text-2xl font-semibold mb-4">🧘‍♀️ Exercícios de Respiração</h2>
+        <ul className="list-disc ml-6">
+          {respiracoes.map((item, idx) => (
+            <li key={idx} className="mb-2">
+              <strong>{item.tecnica}</strong>: {item.descricao}
+            </li>
+          ))}
+        </ul>
+      </section>
+
 
         {/* Autocuidado */}
         <section id="autocuidado" className="py-10 px-6 max-w-4xl mx-auto">
