@@ -62,7 +62,7 @@ http://localhost:3002
 
 🌐 API Utilizada
 
-🔗 Repositório da API: https://github.com/Mariaeduardamatias/servindo-api
+🔗 Repositório da API: https://github.com/Mariaeduardamatias/api_servindo
 
 🌍 API online: https://servindo-api.onrender.com
 
