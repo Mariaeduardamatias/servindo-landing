@@ -35,7 +35,7 @@ A landing page consome dados da [API Servindo](https://servindo-api.onrender.com
 
 | Frases Motivacionais | Exercícios de Respiração | Contatos de Emergência |
 |----------------------|--------------------------|-------------------------|
-| ![Frases](public/frases.PNG) | ![Respiração](public/exercicios.PNG) | ![Emergência](public/contato.PNG) |
+| ![Frases](public/frases) | ![Respiração](public/exercicios) | ![Emergência](public/contato) |
 
 ---
 
@@ -45,7 +45,7 @@ A landing page consome dados da [API Servindo](https://servindo-api.onrender.com
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/servindo-landing.git
+git clone https://github.com/Mariaeduardamatias/servindo-landing.git
 
 
 🌐 API Utilizada
