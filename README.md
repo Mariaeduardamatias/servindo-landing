@@ -47,6 +47,18 @@ A landing page consome dados da [API Servindo](https://servindo-api.onrender.com
 ```bash
 git clone https://github.com/Mariaeduardamatias/servindo-landing.git
 
+# Acesse a pasta do projeto
+cd servindo-landing
+
+# Instale as dependências
+npm install
+
+# Inicie a API
+npm run dev
+
+# O servidor estará rodando em:
+http://localhost:3002
+```
 
 🌐 API Utilizada
 🔗 Repositório da API: https://github.com/Mariaeduardamatias/servindo-api
@@ -66,4 +78,4 @@ Rotas disponíveis:
 Maria Eduarda Souza
 🎓 Programa Programadores do Amanhã
 📧 mariaeduardamatias2808@gmail.com
-🔗 LinkedIn
+🔗 [LinkedIn](www.linkedin.com/in/maria-eduarda-souza-919841276)  
