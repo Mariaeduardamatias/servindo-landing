@@ -1,6 +1,6 @@
 # 🐕‍🦺 Servindo – Landing Page de Apoio Emocional
 
-![Capa do projeto](public/banner.PNGpng)
+![Capa do projeto](public/banner.PNG)
 
 **Servindo** é uma landing page desenvolvida com o objetivo de apresentar uma solução de apoio emocional para estudantes em momentos de vulnerabilidade. A aplicação conecta usuários a frases motivacionais, técnicas de respiração, dicas de autocuidado e contatos de emergência.
 
@@ -35,7 +35,7 @@ A landing page consome dados da [API Servindo](https://servindo-api.onrender.com
 
 | Frases Motivacionais | Exercícios de Respiração | Contatos de Emergência |
 |----------------------|--------------------------|-------------------------|
-| ![Frases](public/frases) | ![Respiração](public/exercicios) | ![Emergência](public/contato) |
+| ![Frases](public/frases.PNG) | ![Respiração](public/exercicios.PNG) | ![Emergência](public/contato.PNG) |
 
 ---
 
