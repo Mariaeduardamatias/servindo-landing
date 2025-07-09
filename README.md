@@ -80,4 +80,4 @@ Rotas disponíveis:
 Maria Eduarda Souza
 🎓 Programa Programadores do Amanhã
 📧 mariaeduardamatias2808@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/maria-eduarda-souza-919841276)  
+🔗 [LinkedIn] www.linkedin.com/in/maria-eduarda-souza-919841276
